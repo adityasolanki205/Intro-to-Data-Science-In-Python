@@ -2,7 +2,7 @@ This course was the basics of the python programming environment, including fund
 
 In this repository all the required files are present to perform all the data manipulation tasks. All the items are defined as below
 
-1. Weekly Practice Notebooks:
+###1. Weekly Practice Notebooks:
 	
 	1.a)  Week1.ipynb - It contains basic codes on string manilpulation, dataframe manipulation, datetime manipulation of how
 			    to get used to basic python syntaxs and methods. (This file uses mpg.csv excelsheet also provided in the 				    repo)
