@@ -4,7 +4,7 @@ In this repository all the required files are present to perform all the data ma
 
 #1. Weekly Practice Notebooks:
 	
-	1.a)  Week1.ipynb - It contains basic codes on string manilpulation, dataframe manipulation, datetime manipulation of how
+	-  Week1.ipynb - It contains basic codes on string manilpulation, dataframe manipulation, datetime manipulation of how
 to get used to basic python syntaxs and methods. (This file uses mpg.csv excelsheet also provided in the repo)
 
 	1.b)  Week2.ipynb - It contains code in data manipulation using PANDAs. ( This file uses olympics.csv also provided in the repo)
