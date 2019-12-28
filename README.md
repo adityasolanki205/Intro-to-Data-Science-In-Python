@@ -1,6 +1,6 @@
-# Machine_Learning
-This repository includes codes and supporting documents regarding the first Project done for Intro to Machine Learning on Udacity
-1. The Html version of the Project Input
-2. The Jupyter notebook with the code
-3. The Project Description
-4. A JPEG image used in the repository
+This course was the basics of the python programming environment, including fundamental python programming techniques such as lambdas, reading and manipulating csv files, and the numpy library. It introduced data manipulation and cleaning techniques using pandas  library and introduced the abstraction of the Series and DataFrame as the central data structures for data analysis, along with usage of the functions such as groupby, merge, and pivot tables. 
+
+In this repository all the required files are present to perform all the data manipulation tasks. All the items are defined as below
+1. Weekly Practice Notebooks:
+	1.a		Week1.ipynb - It basic codes on string manilpulation, dataframe manipulation, datetime manipulation of how to get used to basic 												python syntaxs and methods. (This file uses mpg.csv excelsheet also provided in the repo)
+	1.b		Week2.ipynb - 
